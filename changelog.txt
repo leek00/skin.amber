@@ -1,3 +1,9 @@
+1.7.4
+Remove onunload from VideoFullScreen.xml to fix PseudoTV Live issue.
+
+1.7.3
+Fixed homeshelf by reverting some changes of 1.7.2.
+
 1.7.2
 New layout for keyboard to improve usability.
 Fixed some dialogs due to amended id's for Kodi 14 e.g. Media Source configuration dialog.
@@ -5,16 +11,11 @@ Fixed some more layout issues e.g. Movie Information, LRC lyrics.
 
 1.7.1
 Added support for Advanced filtering.
-Fixed menu alignment issue on Horizontal menu screen.
-Fixed some more layout issues. 
-
-1.7.1
-Added support for Advanced filtering.
 Fixed menu alignement issue on Horizontal menu screen.
 
 1.7.0
 Support for Kodi 14.0\Helix Alpha 3, will not work on previous versions.
-Includes new PVR windows and international keyboard support
+Includes new PVR windows and international keyboard support.
 
 1.6.1
 Fix opening add ons on Android
@@ -26,7 +27,6 @@ Fix label color in PVR
 Re-wamp media covers
 Add videoplaylist link to side menu
 Fix settings descriptions
-
 
 1.5.8
 Fix add ons settings 
