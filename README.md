@@ -1,4 +1,4 @@
 skin.amber
 ==========
 
-Amber skin for Kodi 14.0\Helix Alpha 3
+Amber skin for Kodi 14.0\Helix
